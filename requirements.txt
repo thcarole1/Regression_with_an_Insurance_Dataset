@@ -9,3 +9,6 @@ seaborn
 scikit-learn
 fastapi
 uvicorn
+notebook
+jupyter-contrib-nbextensions
+jupyter_nbextensions_configurator
